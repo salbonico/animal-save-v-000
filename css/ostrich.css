@@ -10,3 +10,8 @@ html {
 
 /* Write your solution here */
 
+@media (max-width: 1275px) {
+  body {
+    top: -50px;
+  }
+}
